@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+web-performance.db
 
 # C extensions
 *.so
