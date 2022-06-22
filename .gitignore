@@ -7,6 +7,8 @@ web-performance.db
 *.pcap
 *.db
 
+old_tcp_pings/
+dbs_with_broken_0rtt/
 figures/
 # C extensions
 *.so
